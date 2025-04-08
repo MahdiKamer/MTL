@@ -8,23 +8,21 @@ I understand this repository requires a wiki to describe theories supporting the
 * Python scripts run the solvers for each conductor geometric position and save parameters in Excel files.
 * CSV files are the experimental measurements to verify the model.
 * These Excel files are imported to Wolfram Mathematica for MTL modelling as illustrated below:
-#
-![MTL regions](img/f3-5.md)
-#
+
+![MTL regions](img/f3-5.jpg)
 **Fig. 1** 
 *Definition of different zones of electrical machine for parametrising and modelling transients with MTL*
+
 #
-#
-![MTL equations](img/f3-6a.md)
-#
+![MTL equations](img/f3-6a.jpg)
 **Fig. 2** 
 *MTL equations illustration*
-#
+
 
 * This repository contains Wolfram Mathematica code in three forms:
- 1. Notebook file *MTL-131195-n=68.nb* if you access the Mathematica front-end.
- 2. Wolfram script package file *MTL-131195-n=68.wl* can be used with the Wolfram Script free licence.
- 3. The following images with the output waveforms are shown for only reading the code.
+  1. Notebook file *MTL-131195-n=68.nb* if you access the Mathematica front-end.
+  2. Wolfram script package file *MTL-131195-n=68.wl* can be used with the Wolfram Script free licence.
+  3. The following images with the output waveforms are shown for only reading the code.
 
 
 ![MTL-131195-n=68_1.gif](img/MTL-131195-n=68_1.gif)
